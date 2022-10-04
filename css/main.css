@@ -1,0 +1,15 @@
+main{
+    margin: 1em;
+    text-align: center;
+
+}
+.header__logo-img{
+    display: block;
+    margin: 0 auto;
+    weidth: 50%;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: large;
+}
+
